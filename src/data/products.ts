@@ -16,7 +16,7 @@ export const products: Product[] = [
     category: 'football',
     size: '5',
     material: 'Поліуретан',
-    price: 2990,
+    price: 3090,
     description:
       'Матчевий футбольний м’яч із рівним швом. Для поля та штучного покриття.',
   },
