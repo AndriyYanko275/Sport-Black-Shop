@@ -13,9 +13,3 @@ npm run dev
 
 ## GitHub Pages
 
-1. Створіть репозиторій і запуште цей проєкт у гілку `main`.
-2. У репозиторії: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
-3. Після пушу сайт з’явиться за адресою на кшталт `https://<ваш-логін>.github.io/<назва-репо>/`.
-
-Маршрути через `#` (`/#/catalog`), щоб сторінки відкривались без окремого сервера.
-Sport Black Shop
